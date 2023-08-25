@@ -30,6 +30,9 @@ body {
   border-radius: 1rem;
   padding: 2rem;
   text-align: center;
+  /*fix the size of the books */
+  height: 400px;
+  
 }
 .book img {
   width: 100%;
